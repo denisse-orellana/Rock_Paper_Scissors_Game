@@ -2,4 +2,4 @@
 
 A very simple Rock Paper Scissors game involving basic JavaScript code.
 
-![Screenshot](simple_rps.png)
+![alt text](http://assets/img/simple_rps.png)
